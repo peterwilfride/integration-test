@@ -1,0 +1,9 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/api/compliance/account/6ed096c5-5760-4141-b75d-fa778a70db0d/withdraw"
+  },
+  "response": {
+    "status": 500
+  }
+}
